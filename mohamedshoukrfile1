@@ -1,0 +1,4 @@
+git remote add origin git@github.com:MOSHUKUR/Mohamedshoukr.git
+git add .
+git commit -m "mohamedshoukr"
+git push origin main
